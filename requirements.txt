@@ -1,0 +1,8 @@
+streamlit
+altair
+seaborn
+matplotlib
+pandas
+numpy
+vega_datasets
+sklearn
